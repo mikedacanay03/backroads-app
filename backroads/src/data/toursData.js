@@ -16,7 +16,7 @@ const toursData = [
      location: 'china',
      days: '6 days',
      price: 'from $2100',
-     date: 'august 26th, 2020'
+     date: 'august 26th, 2024'
     },
 
     {
@@ -28,7 +28,7 @@ const toursData = [
         location: 'indonesia',
         days: '11 days',
         price: 'from $1400',
-        date: 'october 1th, 2020'
+        date: 'october 1th, 2024'
        },
 
        {
@@ -40,7 +40,7 @@ const toursData = [
         location: 'hongkong',
         days: '8 days',
         price: 'from $5000',
-        date: 'september 15th, 2020'
+        date: 'september 15th, 2024'
        },
 
        {
@@ -52,7 +52,7 @@ const toursData = [
         location: 'kenya',
         days: '20 days',
         price: 'from $3300',
-        date: 'december 5th, 2020'
+        date: 'december 5th, 2024'
        },
 
        {
@@ -64,7 +64,7 @@ const toursData = [
         location: 'kenya',
         days: '20 days',
         price: 'from $3300',
-        date: 'december 5th, 2020'
+        date: 'december 5th, 2024'
        },
 
        {
@@ -76,7 +76,7 @@ const toursData = [
         location: 'kenya',
         days: '20 days',
         price: 'from $3300',
-        date: 'december 5th, 2020'
+        date: 'december 5th, 2024'
        },
 ]
 
